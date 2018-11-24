@@ -1,2 +1,3 @@
 # ClassExample
-An example to show integration of Github and VS code
+This is the read me file for my project
+and save my files.
